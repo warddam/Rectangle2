@@ -7,6 +7,7 @@ package org.WalkerCC_CompSci;
             super(sideLength, sideLength);  //What goes here?
 
 
+
         }
 
         public double getSideLength(){
@@ -15,6 +16,7 @@ package org.WalkerCC_CompSci;
 
         public void setSideLength(double width){
             //What goes here?
+            this.length = width;
 
         }
 
